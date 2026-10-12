@@ -1,4 +1,4 @@
-# Aunum
+# Aunum ॐ
 I build software for compassion-driven work. I've been doing it for over twenty years: my
 own web studio in Toronto, then startups in Florida, including VP of UX at an early
 conversational-AI company. Vegan since 2011.
