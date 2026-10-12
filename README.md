@@ -20,4 +20,4 @@ I'm acting CTO for this Florida nonprofit, building its volunteer farm crew app.
 **[Sustainable Gardens](https://sustainablegardens.com)**
 A nine week classroom course that pairs hydroponic gardening with mindfulness and social and emotional learning. I helped write the curriculum, and I build its sites.
 
-Almost everything I build lives in private repos.
+Almost everything I build lives in private repos. I'm happy to walk anyone through it.
